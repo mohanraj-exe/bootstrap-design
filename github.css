@@ -1,0 +1,63 @@
+body{
+    background-color: lightgray;
+    position: relative;
+}
+.row{
+    height: 80px;
+    background-color: darkslategray;
+}
+.rectangle{
+    width: 250px;
+    height: 500px;
+    margin: 50px;
+    border-radius: 20px;
+    background-color: #303030;
+    
+}
+.search{
+    width: 500px;
+    height: 50px;
+    background-color: #303030;
+    left: 525px;
+    top: 150px;
+    position: absolute;
+    border-radius: 10px;
+    color: white;
+
+}
+.square{
+    width: 160px;
+    height: 125px;
+    background-color: #303030;
+    position: absolute;
+    left: 450px;
+    top: 275px;
+    border-radius: 15px;
+}
+.square1{
+    width: 160px;
+    height: 125px;
+    background-color: #303030;
+    position: absolute;
+    left: 725px;
+    top: 275px;
+    border-radius: 15px;
+}
+.square2{
+    width: 160px;
+    height: 125px;
+    background-color: #303030;
+    position: absolute;
+    left: 1000px;
+    top: 275px;
+    border-radius: 15px;
+}
+.last-rectangle{
+    width: 750px;
+    height: 150px;
+    background-color: #303030;
+    position: absolute;
+    top: 465px;
+    left: 450px;
+    border-radius: 20px;
+}
